@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaxxnsh
+👋 Hi, I’m @vaxxnsh
 
 <!---
 vaxxnsh/vaxxnsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
